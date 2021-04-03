@@ -16,7 +16,7 @@ This project demonstrates a login form which displays with a "wave" animation.
 
 ## Final Product
 
-![video sample of project]()
+![video sample of project](./attachments/Form-Input-Wave-and-13-more-page.gif)
 
 ## Technologies
 
